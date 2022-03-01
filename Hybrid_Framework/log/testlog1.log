@@ -1,0 +1,184 @@
+2022-02-23 19:07:08,952 [main] INFO ebanking - URL is opened
+2022-02-23 19:09:00,725 [main] INFO ebanking - URL is opened
+2022-02-23 19:09:52,583 [main] INFO ebanking - URL is opened
+2022-02-23 19:19:20,422 [main] INFO ebanking - URL is opened
+2022-02-24 12:16:18,951 [main] INFO ebanking - URL is opened
+2022-02-24 12:19:00,553 [main] INFO ebanking - URL is opened
+2022-02-24 12:20:02,859 [main] INFO ebanking - URL is opened
+2022-02-24 12:23:11,353 [main] INFO ebanking - URL is opened
+2022-02-24 12:26:10,352 [main] INFO ebanking - URL is opened
+2022-02-24 12:26:13,559 [main] INFO ebanking - Entered username
+2022-02-24 12:26:16,684 [main] INFO ebanking - Entered password
+2022-02-24 12:26:18,884 [main] INFO ebanking - Login test passed
+2022-02-24 12:48:49,029 [main] INFO ebanking - URL is opened
+2022-02-24 12:48:52,275 [main] INFO ebanking - Entered username
+2022-02-24 12:48:55,395 [main] INFO ebanking - Entered password
+2022-02-24 12:48:57,489 [main] INFO ebanking - Login test passed
+2022-02-24 13:38:28,012 [main] INFO ebanking - URL is opened
+2022-02-24 13:38:31,217 [main] INFO ebanking - Entered username
+2022-02-24 13:38:34,273 [main] INFO ebanking - Entered password
+2022-02-24 13:38:36,917 [main] INFO ebanking - Login test passed
+2022-02-24 13:49:58,622 [main] INFO ebanking - URL is opened
+2022-02-24 13:50:01,775 [main] INFO ebanking - Entered username
+2022-02-24 13:50:04,852 [main] INFO ebanking - Entered password
+2022-02-24 13:50:07,430 [main] INFO ebanking - Login test passed
+2022-02-24 13:58:47,513 [main] INFO ebanking - URL is opened
+2022-02-24 13:58:50,672 [main] INFO ebanking - Entered username
+2022-02-24 13:58:53,744 [main] INFO ebanking - Entered password
+2022-02-24 13:58:55,871 [main] INFO ebanking - Login test passed
+2022-02-24 14:07:13,230 [main] INFO ebanking - URL is opened
+2022-02-24 14:07:16,403 [main] INFO ebanking - Entered username
+2022-02-24 14:07:19,477 [main] INFO ebanking - Entered password
+2022-02-24 15:33:11,971 [main] INFO ebanking - user name provided
+2022-02-24 15:33:15,014 [main] INFO ebanking - password provided
+2022-02-24 15:33:22,319 [main] INFO ebanking - user name provided
+2022-02-24 15:33:25,351 [main] INFO ebanking - password provided
+2022-02-24 15:33:32,411 [main] INFO ebanking - user name provided
+2022-02-24 15:33:35,448 [main] INFO ebanking - password provided
+2022-02-24 15:33:42,497 [main] INFO ebanking - user name provided
+2022-02-24 15:33:45,545 [main] INFO ebanking - password provided
+2022-02-24 15:33:52,615 [main] INFO ebanking - user name provided
+2022-02-24 15:33:55,647 [main] INFO ebanking - password provided
+2022-02-24 15:35:30,425 [main] INFO ebanking - user name provided
+2022-02-24 15:35:33,466 [main] INFO ebanking - password provided
+2022-02-24 15:35:40,572 [main] INFO ebanking - user name provided
+2022-02-24 15:35:43,595 [main] INFO ebanking - password provided
+2022-02-24 15:35:50,654 [main] INFO ebanking - user name provided
+2022-02-24 15:35:53,686 [main] INFO ebanking - password provided
+2022-02-24 15:36:00,773 [main] INFO ebanking - user name provided
+2022-02-24 15:36:03,807 [main] INFO ebanking - password provided
+2022-02-24 15:36:08,968 [main] INFO ebanking - Login passed
+2022-02-24 15:36:16,287 [main] INFO ebanking - user name provided
+2022-02-24 15:36:19,318 [main] INFO ebanking - password provided
+2022-02-24 16:18:22,244 [main] INFO ebanking - User name is provided
+2022-02-24 16:18:25,286 [main] INFO ebanking - Passsword is provided
+2022-02-24 16:18:30,489 [main] INFO ebanking - providing customer details....
+2022-02-24 16:21:33,492 [main] INFO ebanking - User name is provided
+2022-02-24 16:21:36,534 [main] INFO ebanking - Passsword is provided
+2022-02-24 16:21:41,799 [main] INFO ebanking - providing customer details....
+2022-02-24 16:23:27,984 [main] INFO ebanking - User name is provided
+2022-02-24 16:23:31,029 [main] INFO ebanking - Passsword is provided
+2022-02-24 16:23:36,287 [main] INFO ebanking - providing customer details....
+2022-02-24 16:28:26,873 [main] INFO ebanking - User name is provided
+2022-02-24 16:28:29,911 [main] INFO ebanking - Passsword is provided
+2022-02-24 16:28:35,135 [main] INFO ebanking - providing customer details....
+2022-02-24 16:30:50,840 [main] INFO ebanking - User name is provided
+2022-02-24 16:30:53,877 [main] INFO ebanking - Passsword is provided
+2022-02-24 16:30:59,530 [main] INFO ebanking - providing customer details....
+2022-02-24 16:32:23,204 [main] INFO ebanking - User name is provided
+2022-02-24 16:32:26,253 [main] INFO ebanking - Passsword is provided
+2022-02-24 16:32:31,406 [main] INFO ebanking - providing customer details....
+2022-02-24 16:32:42,945 [main] INFO ebanking - validation started....
+2022-02-24 16:35:18,211 [main] INFO ebanking - User name is provided
+2022-02-24 16:35:21,251 [main] INFO ebanking - Passsword is provided
+2022-02-24 16:35:27,069 [main] INFO ebanking - providing customer details....
+2022-02-24 16:38:37,862 [main] INFO ebanking - User name is provided
+2022-02-24 16:38:40,896 [main] INFO ebanking - Passsword is provided
+2022-02-24 16:38:46,115 [main] INFO ebanking - providing customer details....
+2022-02-24 16:43:47,617 [main] INFO ebanking - User name is provided
+2022-02-24 16:43:50,659 [main] INFO ebanking - Passsword is provided
+2022-02-24 16:46:05,514 [main] INFO ebanking - User name is provided
+2022-02-24 16:46:08,566 [main] INFO ebanking - Passsword is provided
+2022-02-24 16:47:21,335 [main] INFO ebanking - User name is provided
+2022-02-24 16:47:24,368 [main] INFO ebanking - Passsword is provided
+2022-02-24 16:47:29,579 [main] INFO ebanking - providing customer details....
+2022-02-24 16:49:07,529 [main] INFO ebanking - User name is provided
+2022-02-24 16:49:10,625 [main] INFO ebanking - Passsword is provided
+2022-02-24 16:49:16,395 [main] INFO ebanking - providing customer details....
+2022-02-24 17:00:58,082 [main] INFO ebanking - User name is provided
+2022-02-24 17:00:58,201 [main] INFO ebanking - Passsword is provided
+2022-02-24 17:01:03,670 [main] INFO ebanking - providing customer details....
+2022-02-24 17:05:46,219 [main] INFO ebanking - User name is provided
+2022-02-24 17:05:46,272 [main] INFO ebanking - Passsword is provided
+2022-02-24 17:07:40,862 [main] INFO ebanking - User name is provided
+2022-02-24 17:07:40,910 [main] INFO ebanking - Passsword is provided
+2022-02-24 17:09:40,679 [main] INFO ebanking - User name is provided
+2022-02-24 17:09:40,784 [main] INFO ebanking - Passsword is provided
+2022-02-24 17:16:20,842 [main] INFO ebanking - User name is provided
+2022-02-24 17:16:20,962 [main] INFO ebanking - Passsword is provided
+2022-02-24 17:19:09,106 [main] INFO ebanking - User name is provided
+2022-02-24 17:19:09,164 [main] INFO ebanking - Passsword is provided
+2022-02-24 17:20:41,998 [main] INFO ebanking - User name is provided
+2022-02-24 17:20:42,158 [main] INFO ebanking - Passsword is provided
+2022-02-24 17:52:43,722 [main] INFO ebanking - User name is provided
+2022-02-24 17:52:43,814 [main] INFO ebanking - Passsword is provided
+2022-02-24 17:57:07,537 [main] INFO ebanking - User name is provided
+2022-02-24 17:57:07,595 [main] INFO ebanking - Passsword is provided
+2022-02-24 17:57:13,284 [main] INFO ebanking - providing customer details....
+2022-02-24 18:23:05,538 [main] INFO ebanking - User name is provided
+2022-02-24 18:23:05,595 [main] INFO ebanking - Passsword is provided
+2022-02-24 18:23:11,584 [main] INFO ebanking - providing customer details....
+2022-02-24 18:41:52,156 [main] INFO ebanking - URL is opened
+2022-02-24 18:41:52,324 [main] INFO ebanking - Entered username
+2022-02-24 18:41:52,378 [main] INFO ebanking - Entered password
+2022-02-24 18:41:55,553 [main] INFO ebanking - Login test passed
+2022-02-24 18:47:30,978 [main] INFO ebanking - URL is opened
+2022-02-24 18:47:31,144 [main] INFO ebanking - Entered username
+2022-02-24 18:47:31,198 [main] INFO ebanking - Entered password
+2022-02-24 18:47:34,054 [main] INFO ebanking - Login test passed
+2022-02-24 18:48:27,218 [main] INFO ebanking - User name is provided
+2022-02-24 18:48:27,271 [main] INFO ebanking - Passsword is provided
+2022-02-24 18:48:33,297 [main] INFO ebanking - providing customer details....
+2022-02-24 19:29:18,067 [main] INFO ebanking - User name is provided
+2022-02-24 19:29:18,107 [main] INFO ebanking - Passsword is provided
+2022-02-24 19:29:24,016 [main] INFO ebanking - providing customer details....
+2022-02-25 13:19:26,720 [main] INFO ebanking - User name is provided
+2022-02-25 13:19:26,769 [main] INFO ebanking - Passsword is provided
+2022-02-25 13:19:34,532 [main] INFO ebanking - providing customer details....
+2022-02-25 13:33:00,902 [main] INFO ebanking - User name is provided
+2022-02-25 13:33:00,965 [main] INFO ebanking - Passsword is provided
+2022-02-25 13:33:06,510 [main] INFO ebanking - providing customer details....
+2022-02-25 14:22:51,857 [main] INFO ebanking - User name is provided
+2022-02-25 14:22:51,963 [main] INFO ebanking - Passsword is provided
+2022-02-25 14:22:58,951 [main] INFO ebanking - providing customer details....
+2022-02-25 14:25:07,446 [main] INFO ebanking - User name is provided
+2022-02-25 14:25:07,571 [main] INFO ebanking - Passsword is provided
+2022-02-25 14:25:14,201 [main] INFO ebanking - providing customer details....
+2022-02-25 14:40:13,294 [main] INFO ebanking - User name is provided
+2022-02-25 14:40:13,443 [main] INFO ebanking - Passsword is provided
+2022-02-25 14:40:26,119 [main] INFO ebanking - providing customer details....
+2022-02-25 14:41:18,621 [main] INFO ebanking - User name is provided
+2022-02-25 14:41:18,753 [main] INFO ebanking - Passsword is provided
+2022-02-25 14:46:22,882 [main] INFO ebanking - User name is provided
+2022-02-25 14:46:23,017 [main] INFO ebanking - Passsword is provided
+2022-02-25 14:46:29,792 [main] INFO ebanking - providing customer details....
+2022-02-25 19:25:29,869 [main] INFO ebanking - User name is provided
+2022-02-25 19:25:30,004 [main] INFO ebanking - Passsword is provided
+2022-02-25 19:25:34,732 [main] INFO ebanking - providing customer details....
+2022-02-28 14:28:58,676 [main] INFO ebanking - User name is provided
+2022-02-28 14:28:58,835 [main] INFO ebanking - Passsword is provided
+2022-02-28 14:29:03,574 [main] INFO ebanking - providing customer details....
+2022-02-28 14:29:50,388 [main] INFO ebanking - User name is provided
+2022-02-28 14:29:50,594 [main] INFO ebanking - Passsword is provided
+2022-02-28 14:29:55,226 [main] INFO ebanking - providing customer details....
+2022-02-28 14:33:53,128 [main] INFO ebanking - User name is provided
+2022-02-28 14:33:53,308 [main] INFO ebanking - Passsword is provided
+2022-02-28 14:33:58,041 [main] INFO ebanking - providing customer details....
+2022-02-28 14:35:11,844 [main] INFO ebanking - User name is provided
+2022-02-28 14:35:11,980 [main] INFO ebanking - Passsword is provided
+2022-02-28 14:35:17,052 [main] INFO ebanking - providing customer details....
+2022-02-28 14:35:55,116 [main] INFO ebanking - User name is provided
+2022-02-28 14:35:55,254 [main] INFO ebanking - Passsword is provided
+2022-02-28 14:36:00,145 [main] INFO ebanking - providing customer details....
+2022-02-28 16:05:33,641 [main] INFO ebanking - User name is provided
+2022-02-28 16:05:33,759 [main] INFO ebanking - Passsword is provided
+2022-02-28 16:05:38,543 [main] INFO ebanking - providing customer details....
+2022-02-28 16:11:19,976 [main] INFO ebanking - User name is provided
+2022-02-28 16:11:20,214 [main] INFO ebanking - Passsword is provided
+2022-02-28 16:12:33,041 [main] INFO ebanking - User name is provided
+2022-02-28 16:12:33,201 [main] INFO ebanking - Passsword is provided
+2022-02-28 16:13:22,414 [main] INFO ebanking - User name is provided
+2022-02-28 16:13:22,675 [main] INFO ebanking - Passsword is provided
+2022-02-28 16:13:27,609 [main] INFO ebanking - providing customer details....
+2022-02-28 16:42:20,984 [main] INFO ebanking - User name is provided
+2022-02-28 16:42:21,240 [main] INFO ebanking - Passsword is provided
+2022-02-28 16:42:25,988 [main] INFO ebanking - providing customer details....
+2022-02-28 16:42:54,097 [main] INFO ebanking - User name is provided
+2022-02-28 16:42:54,283 [main] INFO ebanking - Passsword is provided
+2022-02-28 16:42:59,108 [main] INFO ebanking - providing customer details....
+2022-02-28 16:43:49,194 [main] INFO ebanking - User name is provided
+2022-02-28 16:43:49,365 [main] INFO ebanking - Passsword is provided
+2022-02-28 16:43:54,516 [main] INFO ebanking - providing customer details....
+2022-02-28 16:44:41,264 [main] INFO ebanking - User name is provided
+2022-02-28 16:44:41,523 [main] INFO ebanking - Passsword is provided
+2022-02-28 16:44:46,374 [main] INFO ebanking - providing customer details....
